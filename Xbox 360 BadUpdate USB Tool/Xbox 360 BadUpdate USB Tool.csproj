@@ -128,7 +128,6 @@
   <ItemGroup>
     <Content Include="BadStick Icon.ico" />
     <Content Include="BadStick Tilted.ico" />
-    <Content Include="FAT32Format\fat32format.exe" />
     <None Include="Resources\Check.png" />
     <None Include="Resources\discord.png" />
     <None Include="Resources\github.png" />
